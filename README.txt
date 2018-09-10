@@ -1,6 +1,3 @@
-Jump Trading Coding Exercise
------------------------------
-
 Python 3 is required to run the program. The program was written using version 3.6, but it should work with any
 version greater than 3. The program does not use any external dependencies, so a standard distribution will work.
 
